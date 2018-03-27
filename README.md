@@ -1,6 +1,5 @@
-# Master Data Science
+# Master Data Science 2018 KSchool
 
-## The purpose of this repo is to consolidate all the practice done throughout the master.
-
+All exercises done throughout the master.
 
 

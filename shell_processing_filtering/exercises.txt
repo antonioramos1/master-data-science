@@ -1,0 +1,11 @@
+1.
+Use grep to extract all 7x7 or 3xx (where x can be any number) airplane models from  optd_aircraft.csv.
+
+2.
+Use grep to obtain the number of airlines with prefix “aero” in their name from optd_airlines.csv
+
+3.
+How many optd_por_public.csv columns have “name” as part of their name? What are their numerical positions? (hint: use seq and paste)
+
+4.
+Find all files with txt extension that have word “Science” (case unsensitive) inside the content. Print file path and the line contaning the (S/s)cience word. 
