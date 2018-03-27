@@ -1,13 +1,6 @@
-# Master-Data-Science-7
+# Master Data Science
 
-First Repo:
+## The purpose of this repo is to consolidate all the practice done throughout the master.
 
-* List of things
-* List 2
-* One more
 
-I can write on *italics* **bold**
 
-Hi!
-
-Anything
