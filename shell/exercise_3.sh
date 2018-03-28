@@ -1,4 +1,4 @@
-#!/usr/bin/zsh
+#!/usr/bin/env bash
 
 FILE_NAME="$1"
 NUMBER_ENGINES="$2"
