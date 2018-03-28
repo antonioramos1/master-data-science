@@ -1,0 +1,19 @@
+Master_class 03v5 pg 15
+
+1.
+Change the delimiter of optd_aircraft.csv to “,”
+
+2.
+Check if optd_por_public.csv has repeated white spaces (hint: use tr with wc)
+
+3.
+How many columns has optd_por_public.csv? (hint: use head and tr)
+
+4.
+Print column names of optd_por_public.csv  together with their column number. (hint: use paste)
+
+5.
+Use optd_airlines.csv to obtain the airline with the most flights?
+
+6.
+Use optd_airlines.csv to obtain number of airlines in each alliance?

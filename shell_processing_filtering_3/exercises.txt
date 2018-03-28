@@ -1,0 +1,11 @@
+Master_class 03v5 pg 25
+
+Use Text_example.txt
+1.
+Replace every “line” with new line character (“\n”)
+
+2.
+Delete lines that contain the “line” word.
+
+3.
+Print ONLY the lines that DON’T contain the “line” word
