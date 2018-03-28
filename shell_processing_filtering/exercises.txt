@@ -1,3 +1,7 @@
+Master_class 03v5 pg 20
+
+Do with shell commands and then with csvkit:
+
 1.
 Use grep to extract all 7x7 or 3xx (where x can be any number) airplane models from  optd_aircraft.csv.
 

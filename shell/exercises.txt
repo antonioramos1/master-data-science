@@ -1,0 +1,17 @@
+Master_class 03v5 pg 53
+
+1.
+Create a script that accepts a CSV filename as input ($1 inside your script) and returns the model of the 
+aircraft with the highest number of engines. (use it on  ~/Data/opentraveldata/optd_aircraft.csv) 
+
+2.
+Repeat script 1, but add a second argument to accept number of a column with the number of engines. If 
+several planes have the highest number of engines, then the script will only show one of them. 
+
+3.
+Create a script that accepts as input arguments the name of the CSV file, and a number (number of 
+engines) and returns the number of aircrafts that have that number of engines. 
+
+4.
+Create a script that will return returns column names together with their column number from the csv 
+files. The first argument should be file name and the second delimiter.
