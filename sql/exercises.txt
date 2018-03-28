@@ -1,0 +1,16 @@
+Master_class_04v7 SQL with psql pg 45
+
+1•
+Import optd_aircraft.csv and optd_airlines.csv in postgres (/Data/opentraveldata/)
+
+2•
+Which airplane has the highest number of engines? (optd_aircraft)
+
+
+3• 
+What number of engines is most common on airplanes? (optd_aircraft)
+
+
+Exercise Basecamp:
+
+First load the airline and ref csv files into psql, then run a query to select all the references from the ref file and the names from the airlines they match to.

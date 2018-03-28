@@ -1,0 +1,13 @@
+CSVkit - Quick exercises
+
+1.
+Use csvstat to find out how many different manufactures are in the file
+
+2.
+Extract the column manufacturer and then by using pipes, sort, uniq and wc find out how many manufacturers are in the file. Why does this number differ to the number reported in csvstat?
+
+3.
+What are the top 5 manufacturers? 
+
+4.
+Using csvgrep, get only the records with manufacturer equal to  Airbus and save them to a file with pipe (|) delimiter.

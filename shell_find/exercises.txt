@@ -1,0 +1,14 @@
+Find - Quick exercises
+
+1.
+Find all files located ONLY inside subdirectories of your home directory which have been modified in last 60min
+
+2.
+Find all empty files inside subdirectories of your home directory which do NOT have read -write -execute 
+permissions given to all users
+
+3.
+Expand previous command to grant these permissions using “ok cmd” option.
+
+4.
+Get top 3 largest files per subdirectory inside ~/Data/ 
