@@ -5,7 +5,6 @@ Master in Data Science - [KSchool](https://kschool.com/cursos/master-en-data-sci
 This repository contains all exercises done during the master.
 
 ## Program:
-*to be updated*
 - Intro to Data Science
   	-  Git
   	-  Shell
@@ -13,7 +12,7 @@ This repository contains all exercises done during the master.
   	-  SQL
   	-  csvtoolkit
  	-  Intro to Python & Jupyter Notebooks
-    -  Numpy, Pandas & Matplotlib
+    	-  Python - Numpy, Pandas & Matplotlib
   	-  Intro to R
   	-  R - Data analysis, web scraping, RMarkdown, etc
   	-  R - Data visualization: ggplot2
@@ -26,7 +25,7 @@ This repository contains all exercises done during the master.
     -  Support Vector Machines (SVM)
     -  Natural language processing (NLP)
     -  Neural Networks
-    -  etc
+    -  etc *to be updated*
 - Big Data
     -  Spark
 -  Visualization
