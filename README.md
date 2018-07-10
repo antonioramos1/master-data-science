@@ -7,29 +7,29 @@ This repository contains exercises from the master as well as personal projects 
 ## Program:
 
 - Intro to Data Science:
-  	-  Git
-  	-  Shell & csvtoolkit
+  - Git
+  - Shell & csvtoolkit
   	
 - Languages for Data Science:
-  	-  SQL
- 	-  Python - Numpy,  Pandas, Matplotlib, etc.
-  	-  R - Data analysis, RMarkdown, ggplot2, Shiny, etc.
--  Machine Learning and Deep Learning:
-	-  Intro to statistics and probability
-	-  Supervised Learning:
-			- Linear Regression, L1 & L2 Regularization, ElasticNet, Logistic regression, Naive Bayers, Decision Trees, SVM, KNN, Random Forest, GBM.
-	-  Unsupervised Learning:
-			- Clustering, KMeans, PCA
-	-  Recommender Systems
-    	-  Natural language processing (NLP)
-    	-  Neural Networks
+  - SQL
+  - Python - Numpy,  Pandas, Matplotlib, etc.
+  - R - Data analysis, RMarkdown, ggplot2, Shiny, etc.
+-  Machine Learning:
+  - Intro to statistics and probability
+  - Supervised Learning:
+    - Linear Regression, L1 & L2 Regularization, ElasticNet, Logistic regression, Naive Bayers, Decision Trees, SVM, KNN, Random Forest, GBM.
+  - Unsupervised Learning:
+    - Clustering, KMeans, PCA
+  - Recommender Systems
+  - Natural language processing (NLP)
+- Deep Learning
 
 - Big Data
-    	-  Spark
+  - Spark
     
 -  Visualization
-	- Tableau
-	- D3
+  - Tableau
+  - D3
 
 -  Final Project
 
