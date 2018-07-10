@@ -2,34 +2,34 @@
 
 Master in Data Science - [KSchool](https://kschool.com/cursos/master-en-data-science-madrid/) -  *March-Oct 2018 (230h)*
 
-This repository contains all exercises done during the master.
+This repository contains exercises from the master as well as personal projects related to the contents of the program.
 
 ## Program:
-- Intro to Data Science
+
+- Intro to Data Science:
   	-  Git
-  	-  Shell
-- Languages for Data Hacking
+  	-  Shell & csvtoolkit
+  	
+- Languages for Data Science:
   	-  SQL
-  	-  csvtoolkit
- 	-  Intro to Python & Jupyter Notebooks
-    	-  Python - Numpy, Pandas & Matplotlib
-  	-  Intro to R
-  	-  R - Data analysis, web scraping, RMarkdown, etc
-  	-  R - Data visualization: ggplot2
--  Statistics, Machine Learning and Deep Learning:
+ 	-  Python - Numpy,  Pandas, Matplotlib, etc.
+  	-  R - Data analysis, RMarkdown, ggplot2, Shiny, etc.
+-  Machine Learning and Deep Learning:
 	-  Intro to statistics and probability
-	-  Bayesian statistics
-	-  Regression
-	-  Unsupervised Learning
-	-  K-Nearest Neighbors
-    -  Support Vector Machines (SVM)
-    -  Natural language processing (NLP)
-    -  Neural Networks
-    -  etc *to be updated*
+	-  Supervised Learning:
+			- Linear Regression, L1 & L2 Regularization, ElasticNet, Logistic regression, Naive Bayers, Decision Trees, SVM, KNN, Random Forest, GBM.
+	-  Unsupervised Learning:
+			- Clustering, KMeans, PCA
+	-  Recommender Systems
+    	-  Natural language processing (NLP)
+    	-  Neural Networks
+
 - Big Data
-    -  Spark
+    	-  Spark
+    
 -  Visualization
 	- Tableau
-	- D3.js
--  Real business case applications and legal considerations
--  Project
+	- D3
+
+-  Final Project
+
