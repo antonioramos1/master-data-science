@@ -1,4 +1,4 @@
-# New Document# Master Data Science 2018 - KSchool
+# Master Data Science 2018 - KSchool
 
 Master in Data Science - [KSchool](https://kschool.com/cursos/master-en-data-science-madrid/) -  *March-Oct 2018 (230h)*
 
