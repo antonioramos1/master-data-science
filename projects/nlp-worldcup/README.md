@@ -26,6 +26,8 @@ This repository contains:
 - Textblob
 
 ### Outcomes:
+![plot](https://i.imgur.com/rq1lyy5.png)
+
 - Entity analysis favours certains players who appear even in matches they do not play. This could be a good indicator of the popularity of such players in social media, eg. Neymar, Mbappe.
 - The bias introduced by only pulling tweets is English is very present for example in England games.
 - Time splits offer another picture, ie. blunder from Muslera during the Uruguay vs France game makes other goalkeepers go viral such as Karius, or De Gea.
