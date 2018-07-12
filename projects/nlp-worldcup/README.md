@@ -26,7 +26,7 @@ This repository contains:
 - Textblob
 
 ### Outcomes:
-![plot](https://i.imgur.com/rq1lyy5.png)
+![plot](https://i.imgur.com/iMR80GJ.png)
 
 - Entity analysis favours certains players who appear even in matches they do not play. This could be a good indicator of the popularity of such players in social media, eg. Neymar, Mbappe.
 - The bias introduced by only pulling tweets is English is very present for example in England games.
